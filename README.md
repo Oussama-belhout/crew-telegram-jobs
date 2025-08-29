@@ -1,4 +1,9 @@
 https://drive.google.com/drive/folders/1zCzHXi3paA9xVZknAoJL5lbOGz64l3_9?usp=sharing
+
+https://chatgpt.com/share/68b09229-1e9c-8007-8b48-46464b61b136
+https://chatgpt.com/share/68b09229-1e9c-8007-8b48-46464b61b136
+https://chatgpt.com/share/68b091d8-a358-800f-a161-e79144571497
+
 # 🚤 EasyCrew – Telegram Mini App Recruitment MVP
 
 **EasyCrew** is a Telegram Mini App MVP designed for yacht crew recruitment. It offers basic Create, Read, Update, and Delete (CRUD) functionalities, allowing employers to post jobs and browse crew, and crew members to create profiles and explore job listings—all seamlessly within Telegram. Built with **React (Vite)** and **TypeScript** on the frontend and **Strapi** on the backend, EasyCrew delivers a smooth, integrated experience.
